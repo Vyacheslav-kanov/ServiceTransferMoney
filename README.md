@@ -1,8 +1,18 @@
 # Сервис перевода денег
 ## Описание проекта
 Название: ServiceTransferMoney;  
-Языки: Java, JavaScript, HTML, PostgresSQL;  
+Языки: 
+- Java 17;
+- JavaScript; 
+- HTML; 
+- PostgresSQL;  
+  
 Платформа разработки: INTELLIJ IDEA Communiti idition.  
+Библиотеки/инструменты:
+- Lambok;
+- Spring fratmwork; 
+- Postgresql;
+- Maven.   
 
 Сервис предназначен для конвертирования валюты в любую другую валюту по курсу ЦентрБанка.
 Сервис дает возможность ознакомиться с статистикой изменения курсов валют начиная с 01.01.2000.
